@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science (AI,Machine Learning)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rohan-Yele8788/Rohanyele-Demo.git](https://github.com/Rohan-Yele8788/Rohanyele-Demo.git)
+- 👨‍💻 All of my projects are available at  "https://github.com/Rohan-Yele8788?tab=repositories" 
 
 - 📫 How to reach me **rohanyele026@gmail.com**
 
